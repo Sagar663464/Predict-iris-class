@@ -28,4 +28,7 @@ I've deployed the app, so you can visit https://predict-iris-class.streamlit.app
 - This will open up the app in a new tab in your default browser.
 
 ## Screenshots
-![SC1]()
+![Screenshot 1](https://github.com/Sagar663464/Predict-iris-class/assets/65543059/247ac2b4-3391-4ff9-b094-ce888ee47de0)
+
+
+![Screenshot 2](https://github.com/Sagar663464/Predict-iris-class/assets/65543059/256a9e36-683e-4270-82ef-886a60b102da)
