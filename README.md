@@ -20,10 +20,14 @@ Not only training the model and getting the best accuracy score is important. Al
 
 ## Instructions to use
 I've deployed the app, so you can visit https://predict-iris-class.streamlit.app/ to use the app from any device or browser as per your wish. If you like to run the source code yourself, 
-- Download the files from the repo.
+- Download the files from the repo.   `git clone https://github.com/Sagar663464/Predict-iris-class`
+  
 - Open the folder in any IDE.
 - Open up terminal.
-- Change the directory to folder that has the files.
+- Change the directory to folder that has the files. `cd Predict-iris-class`
+
+- Install required libraries.  `pip install requirements.txt`
+  
 - Run `streamlit run app.py`
 - This will open up the app in a new tab in your default browser.
 
