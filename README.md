@@ -27,4 +27,5 @@ I've deployed the app, so you can visit https://predict-iris-class.streamlit.app
 - Run `streamlit run app.py`
 - This will open up the app in a new tab in your default browser.
 
----
+## Screenshots
+![SC1]()
